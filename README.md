@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeandroTakafaz
 - 👀 I’m interested in Dev Games
-- 🌱 I’m currently learning NodeJS, React JS, Game Maker and Unity
+- 🌱 I’m currently learning Python, Unity and GameMakerLanguage
 - My Social Medias are Instagram - https://www.instagram.com/dev_alone.exe/ and LinkedIn - https://www.linkedin.com/in/leandro-takafaz-b70857215/
 
 <!---
