@@ -35,12 +35,8 @@ Additionally, I have a focus on game development, where I have knowledge in Game
   />
   <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true" />
 </picture>
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="max-width: 100%;">
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotakafaz&layout=compact)
-
-<img src="https://camo.githubusercontent.com/b574cee0df6169fffac58de7e03cefdc923cf2251c1d7d93d114a6add762fc58/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65" alt="midnight-purple" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=midnight-purple" style="max-width: 100%;">
    
 <!---
 LeandroTakafaz/LeandroTakafaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
