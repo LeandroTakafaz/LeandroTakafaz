@@ -1,15 +1,15 @@
-#👋 Hi there
+# 👋 Hi there
 
 I'm Leandro Takafaz, a passionate software developer and tech enthusiast.
 Currently, I am attending college for Information Systems and taking courses to improve myself in my free time.
 
 
-#🚀 Expertise
+# 🚀 Expertise
 
 My primary focus is on frontend development, where I specialize in building interactive and user-friendly web applications. I have extensive knowledge of HTML, CSS and JavaScript, and I'm proficient in popular frameworks and libraries such as React and BootStrap.
 Additionally, I have a focus on game development, where I have knowledge in GameMaker Language and Unity.
 
-#💻 Tech Stack
+# 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <picture>
