@@ -19,6 +19,10 @@ Additionally, I have a focus on game development, where I have knowledge in Game
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+# 🌐 Socials:
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple"
