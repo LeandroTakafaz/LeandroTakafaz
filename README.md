@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @LeandroTakafaz
-- 👀 I’m interested in Dev Games
-- 🌱 I’m currently learning Python, Unity and GameMakerLanguage
-- My Social Medias are Instagram - https://www.instagram.com/dev_alone.exe/ and LinkedIn - https://www.linkedin.com/in/leandro-takafaz-b70857215/
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <!---
 LeandroTakafaz/LeandroTakafaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
