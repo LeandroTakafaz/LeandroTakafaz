@@ -20,8 +20,8 @@ Additionally, I have a focus on game development, where I have knowledge in Game
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # 🌐 Socials:
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white).
+<a href="https://linkedin.com/in/leandro-takafaz/" rel="nofollow"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://instagram.com/dev_alone.exe/" rel="nofollow"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
 <picture>
@@ -33,10 +33,15 @@ Additionally, I have a focus on game development, where I have knowledge in Game
     srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrotakafaz&layout=compact)
+
+<img src="https://camo.githubusercontent.com/b574cee0df6169fffac58de7e03cefdc923cf2251c1d7d93d114a6add762fc58/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65" alt="midnight-purple" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=midnight-purple" style="max-width: 100%;">
+   
 <!---
 LeandroTakafaz/LeandroTakafaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
