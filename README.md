@@ -21,7 +21,8 @@ Additionally, I have a focus on game development, where I have knowledge in Game
 
 # 🌐 Socials:
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white.https://www.linkedin.com/in/leandro-takafaz/)
+![Instagram https://www.linkedin.com/in/leandro-takafaz/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white).
+
 
 <picture>
   <source
