@@ -23,20 +23,24 @@ Additionally, I have a focus on game development, where I have knowledge in Game
 <a href="https://www.linkedin.com/in/leandro-takafaz/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <br>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true" />
-</picture>
-<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="max-width: 100%;">
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true" />
+  </picture>
+  <br>
+  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="max-width: 100%;">
+</div>
 
    
 <!---
