@@ -27,19 +27,18 @@ Additionally, I have a focus on game development, where I have knowledge in Game
 <br>
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true" />
-  </picture>
-  <br>
-  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="max-width: 100%;">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=default"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leandrotakafaz&show_icons=true&theme=midnight-purple" />
+</picture>
+<img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" style="max-width: 100%;">
 </div>
 
    
